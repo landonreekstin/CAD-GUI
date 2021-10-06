@@ -1,0 +1,1279 @@
+2021-02-23T15:13:33.351219 - PrinCad begin execution
+2021-02-23T15:13:38.5030557 - PrinCad end execution
+2021-02-23T15:29:41.13228 - PrinCad begin execution
+2021-02-23T15:29:44.3002877 - PrinCad end execution
+2021-02-23T15:53:43.8929596 - PrinCad begin execution
+2021-02-23T15:53:49.8087473 - PrinCad crash with exception  java.io.FileNotFoundException: nonexistingfile.txt (The system cannot find the file specified)
+2021-02-23T15:57:20.7468661 - PrinCad crash with exception  java.io.FileNotFoundException: nonexistingfile.txt (The system cannot find the file specified)
+2021-02-23T16:08:46.0049446 - PrinCad begin execution
+2021-02-23T16:08:49.5697601 - PrinCad crash with exception  java.io.FileNotFoundException: nonexistingfile.txt (The system cannot find the file specified)
+2021-02-25T14:49:46.6473654 - PrinCad begin execution
+2021-02-25T14:49:46.8877163 - AppStyles.css does not exist
+2021-02-25T14:50:02.1514571 - PrinCad crash with exception  java.io.FileNotFoundException: nonexistingfile.txt (The system cannot find the file specified)
+2021-02-25T15:11:57.4571711 - PrinCad begin execution
+2021-02-25T15:11:57.6815709 - AppStyles.css does not exist
+2021-02-25T15:12:34.0045127 - PrinCad end execution
+2021-02-25T15:37:38.0410317 - PrinCad begin execution
+2021-02-25T15:37:42.4863461 - Handle New File Event
+2021-02-25T15:37:45.5811712 - Handle Open File Event
+2021-02-25T15:37:48.6753549 - Handle Save File Event
+2021-02-25T15:37:50.9074682 - Handle SaveAs File Event
+2021-02-25T15:54:14.415906 - PrinCad begin execution
+2021-02-25T15:54:28.4343182 - PrinCad end execution
+2021-03-02T14:09:32.6572736 - PrinCad begin execution
+2021-03-02T14:09:38.4415175 - Handle New File Event
+2021-03-02T14:09:43.6087595 - PrinCad end execution
+2021-03-02T14:20:48.9072251 - PrinCad begin execution
+2021-03-02T14:21:29.377094 - PrinCad end execution
+2021-03-02T14:22:15.7347015 - PrinCad begin execution
+2021-03-02T14:22:55.4492865 - Handle Undo Edit Event
+2021-03-02T14:22:57.4743382 - Handle Redo Edit Event
+2021-03-02T14:22:58.9124907 - Handle Delete Edit Event
+2021-03-02T14:23:00.4608198 - Handle Toggle Selection Edit Event
+2021-03-02T14:23:02.5264633 - Handle Properties Edit Event
+2021-03-02T14:23:04.1457462 - Handle New File Event
+2021-03-02T14:23:05.5391564 - Handle Open File Event
+2021-03-02T14:23:06.453057 - Handle Save File Event
+2021-03-02T14:23:07.212073 - Handle SaveAs File Event
+2021-03-02T14:23:07.8606494 - Handle Undo Edit Event
+2021-03-02T14:23:08.6439222 - Handle Redo Edit Event
+2021-03-02T14:23:09.338051 - Handle Delete Edit Event
+2021-03-02T14:23:11.1092759 - Handle Toggle Selection Edit Event
+2021-03-02T14:23:12.0122829 - Handle Properties Edit Event
+2021-03-02T14:23:14.1687672 - PrinCad end execution
+2021-03-02T15:26:35.7600504 - PrinCad begin execution
+2021-03-02T15:26:41.1295507 - Handle Toggle Selection Edit Event
+2021-03-02T15:26:47.1214257 - Handle Toggle Selection Edit Event
+2021-03-02T15:26:51.8953613 - PrinCad end execution
+2021-03-02T15:32:00.6572782 - PrinCad begin execution
+2021-03-02T15:32:04.6261471 - Handle Toggle Selection Edit Event
+2021-03-02T15:32:08.6175024 - Handle Toggle Selection Edit Event
+2021-03-02T15:32:12.3905838 - PrinCad end execution
+2021-03-02T15:33:12.4794888 - PrinCad begin execution
+2021-03-02T15:33:15.0538683 - PrinCad end execution
+2021-03-02T16:01:52.55449 - PrinCad begin execution
+2021-03-02T16:01:56.6505055 - Handle Toggle Selection Edit Event
+2021-03-02T16:02:02.2159795 - Handle Toggle Selection Edit Event
+2021-03-02T16:02:04.9376234 - PrinCad end execution
+2021-03-02T17:19:45.7094556 - PrinCad begin execution
+2021-03-02T17:19:49.3002296 - Handle Toggle Selection Edit Event
+2021-03-02T17:19:54.5497506 - PrinCad end execution
+2021-03-02T17:35:38.0065346 - PrinCad begin execution
+2021-03-02T17:35:38.0683683 - PrinCad crash with exception  java.lang.RuntimeException: Exception in Application start method
+2021-03-02T17:37:28.3146798 - PrinCad begin execution
+2021-03-02T17:37:32.0619227 - Handle Toggle Selection Edit Event
+2021-03-02T17:37:37.0630039 - PrinCad end execution
+2021-03-02T19:11:39.4931436 - PrinCad begin execution
+2021-03-02T19:11:42.6852937 - Handle Toggle Selection Edit Event
+2021-03-02T19:11:46.5420706 - Handle Toggle Selection Edit Event
+2021-03-02T19:11:49.3132088 - PrinCad end execution
+2021-03-04T13:38:44.2750999 - PrinCad begin execution
+2021-03-04T13:38:51.0172288 - Handle Toggle Selection Edit Event
+2021-03-04T13:38:55.4586978 - Handle Toggle Selection Edit Event
+2021-03-04T13:39:00.4683109 - PrinCad end execution
+2021-03-04T15:07:52.5167868 - PrinCad begin execution
+2021-03-04T15:07:58.9582182 - PrinCad end execution
+2021-03-04T15:10:46.5167308 - PrinCad begin execution
+2021-03-04T15:10:51.6117449 - PrinCad end execution
+2021-03-04T15:21:27.1904595 - PrinCad begin execution
+2021-03-04T15:21:35.9527792 - PrinCad end execution
+2021-03-04T15:23:50.0058702 - PrinCad begin execution
+2021-03-04T15:23:57.7823867 - PrinCad end execution
+2021-03-04T15:24:55.0882629 - PrinCad begin execution
+2021-03-04T15:25:02.4826578 - PrinCad end execution
+2021-03-04T16:19:17.1206622 - PrinCad begin execution
+2021-03-04T16:19:21.3218691 - Handle Plus Marker CAD Tools Event
+2021-03-04T16:19:24.8932085 - Handle Box Marker CAD Tools Event
+2021-03-04T16:19:30.6016932 - Handle Crisscross Marker CAD Tools Event
+2021-03-04T16:19:34.5538749 - PrinCad end execution
+2021-03-04T16:21:21.6646188 - PrinCad begin execution
+2021-03-04T16:21:23.3407563 - Handle Box Marker CAD Tools Event
+2021-03-04T16:21:28.3832206 - Handle Plus Marker CAD Tools Event
+2021-03-04T16:21:32.4258014 - Handle Box Marker CAD Tools Event
+2021-03-04T16:21:37.7853024 - PrinCad end execution
+2021-03-04T16:23:12.1734312 - PrinCad begin execution
+2021-03-04T16:23:13.6536493 - Handle Box Marker CAD Tools Event
+2021-03-04T16:23:16.3233665 - Handle Crisscross Marker CAD Tools Event
+2021-03-04T16:23:18.9568174 - Handle Plus Marker CAD Tools Event
+2021-03-04T16:23:24.6288286 - PrinCad end execution
+2021-03-05T17:08:13.1862393 - PrinCad begin execution
+2021-03-05T17:08:19.0733473 - Handle Toggle Selection Edit Event
+2021-03-05T17:08:22.5522713 - Handle Plus Marker CAD Tools Event
+2021-03-05T17:08:24.597543 - Handle Box Marker CAD Tools Event
+2021-03-05T17:08:26.4524053 - Handle Crisscross Marker CAD Tools Event
+2021-03-05T17:08:36.7685724 - PrinCad end execution
+2021-03-09T13:50:49.4890666 - PrinCad begin execution
+2021-03-09T13:50:53.9937623 - Handle Plus Marker CAD Tools Event
+2021-03-09T13:50:55.9942817 - Handle Box Marker CAD Tools Event
+2021-03-09T13:50:58.2670515 - Handle Crisscross Marker CAD Tools Event
+2021-03-09T13:51:04.3132529 - Handle Crisscross Marker CAD Tools Event
+2021-03-09T13:51:09.1280963 - Handle Crisscross Marker CAD Tools Event
+2021-03-09T13:51:32.3178505 - PrinCad end execution
+2021-03-09T13:54:40.1540079 - PrinCad begin execution
+2021-03-09T13:54:44.7930753 - Handle Plus Marker CAD Tools Event
+2021-03-09T13:54:47.8652893 - Handle Box Marker CAD Tools Event
+2021-03-09T13:54:50.5532095 - Handle Crisscross Marker CAD Tools Event
+2021-03-09T13:55:04.7379545 - Handle Plus Marker CAD Tools Event
+2021-03-09T13:55:06.5281856 - Handle Box Marker CAD Tools Event
+2021-03-09T13:55:08.3565632 - Handle Crisscross Marker CAD Tools Event
+2021-03-09T13:55:11.3211566 - Handle Plus Marker CAD Tools Event
+2021-03-09T13:55:14.0781368 - Handle Box Marker CAD Tools Event
+2021-03-09T13:55:17.2652625 - Handle Crisscross Marker CAD Tools Event
+2021-03-09T13:55:24.8347046 - PrinCad end execution
+2021-03-09T13:56:02.3197869 - PrinCad begin execution
+2021-03-09T13:57:01.0818676 - PrinCad end execution
+2021-03-09T14:54:57.1659491 - PrinCad begin execution
+2021-03-09T14:54:57.2666784 - PrinCad crash with exception  java.lang.RuntimeException: Exception in Application start method
+2021-03-09T15:11:04.0571606 - PrinCad begin execution
+2021-03-09T15:11:08.6466961 - Handle Single Line CAD Tools Event
+2021-03-09T15:11:26.7033492 - Handle Single Line CAD Tools Event
+2021-03-09T15:11:57.0532704 - Handle Single Line CAD Tools Event
+2021-03-09T15:12:08.4526276 - Handle Single Line CAD Tools Event
+2021-03-09T15:12:27.2698815 - Handle Toggle Selection Edit Event
+2021-03-09T15:12:39.0919727 - Handle Rectangle CAD Tools Event
+2021-03-09T15:12:47.7235217 - Handle Rectangle CAD Tools Event
+2021-03-09T15:14:04.2064289 - PrinCad end execution
+2021-03-09T15:17:28.2231527 - PrinCad begin execution
+2021-03-09T15:17:31.2367253 - Handle Single Line CAD Tools Event
+2021-03-09T15:17:41.2226848 - Handle Single Line CAD Tools Event
+2021-03-09T15:17:48.4128893 - Handle Single Line CAD Tools Event
+2021-03-09T15:17:55.15799 - PrinCad end execution
+2021-03-09T15:18:38.8801689 - PrinCad begin execution
+2021-03-09T15:18:43.5127743 - Handle Single Line CAD Tools Event
+2021-03-09T15:18:52.5771597 - Handle Single Line CAD Tools Event
+2021-03-09T15:18:59.8591652 - PrinCad end execution
+2021-03-09T15:20:54.8928504 - PrinCad begin execution
+2021-03-09T15:20:58.6660907 - Handle Rectangle CAD Tools Event
+2021-03-09T15:21:07.7371449 - Handle Rectangle CAD Tools Event
+2021-03-09T15:21:19.8806768 - PrinCad end execution
+2021-03-09T15:32:45.6365199 - PrinCad begin execution
+2021-03-09T15:32:48.1561323 - Handle Circle CAD Tools Event
+2021-03-09T15:32:54.3665901 - PrinCad end execution
+2021-03-09T15:35:53.744161 - PrinCad begin execution
+2021-03-09T15:35:55.9518491 - Handle Circle CAD Tools Event
+2021-03-09T15:35:59.7361919 - PrinCad end execution
+2021-03-09T15:37:40.0519218 - PrinCad begin execution
+2021-03-09T15:37:42.2064556 - Handle Circle CAD Tools Event
+2021-03-09T15:38:07.1103742 - PrinCad end execution
+2021-03-09T15:40:46.4275308 - PrinCad begin execution
+2021-03-09T15:40:48.3289696 - Handle Circle CAD Tools Event
+2021-03-09T15:41:15.6610076 - PrinCad end execution
+2021-03-09T15:43:43.4536528 - PrinCad begin execution
+2021-03-09T15:43:45.9031839 - Handle Circle CAD Tools Event
+2021-03-09T15:44:19.7834534 - PrinCad end execution
+2021-03-09T16:01:26.3869404 - PrinCad begin execution
+2021-03-09T16:01:28.7968526 - Handle Circle CAD Tools Event
+2021-03-09T16:01:42.2597376 - PrinCad end execution
+2021-03-09T16:01:46.1258093 - PrinCad begin execution
+2021-03-09T16:01:53.6489981 - Handle Circle CAD Tools Event
+2021-03-09T16:02:21.3320926 - Handle Circle CAD Tools Event
+2021-03-09T16:02:52.0929523 - Handle Circle CAD Tools Event
+2021-03-09T16:03:06.8730446 - PrinCad end execution
+2021-03-09T16:06:22.5908858 - PrinCad begin execution
+2021-03-09T16:06:24.1272127 - Handle Circle CAD Tools Event
+2021-03-09T16:06:47.9670869 - PrinCad end execution
+2021-03-11T14:12:25.5965117 - PrinCad begin execution
+2021-03-11T14:12:27.6431702 - Handle Circle CAD Tools Event
+2021-03-11T14:12:44.5527888 - Handle Circle CAD Tools Event
+2021-03-11T14:12:51.6489363 - Handle Circle CAD Tools Event
+2021-03-11T14:13:31.4523882 - PrinCad end execution
+2021-03-11T14:14:10.2920898 - PrinCad begin execution
+2021-03-11T14:14:15.3994717 - Handle Circle CAD Tools Event
+2021-03-11T14:15:01.4055835 - PrinCad end execution
+2021-03-11T14:19:55.3878653 - PrinCad begin execution
+2021-03-11T14:19:57.3799201 - Handle Circle CAD Tools Event
+2021-03-11T14:28:23.8800491 - PrinCad begin execution
+2021-03-11T14:28:25.5607927 - Handle Circle CAD Tools Event
+2021-03-11T14:28:36.752801 - PrinCad end execution
+2021-03-11T14:37:23.740056 - PrinCad begin execution
+2021-03-11T14:37:25.1516352 - Handle Circle CAD Tools Event
+2021-03-11T14:37:31.7722667 - PrinCad end execution
+2021-03-11T14:43:03.9850945 - PrinCad begin execution
+2021-03-11T14:43:05.6827938 - Handle Circle CAD Tools Event
+2021-03-11T14:43:11.6742267 - PrinCad end execution
+2021-03-11T14:43:30.9248186 - PrinCad begin execution
+2021-03-11T14:43:33.597281 - Handle Circle CAD Tools Event
+2021-03-11T14:43:39.1983897 - Handle Circle CAD Tools Event
+2021-03-11T14:44:03.3215359 - PrinCad end execution
+2021-03-11T14:44:16.6670418 - PrinCad begin execution
+2021-03-11T14:44:18.3745224 - Handle Circle CAD Tools Event
+2021-03-11T14:44:44.7033084 - Handle Rectangle CAD Tools Event
+2021-03-11T14:44:52.4496307 - Handle Rectangle CAD Tools Event
+2021-03-11T14:44:55.5252024 - Handle Single Line CAD Tools Event
+2021-03-11T14:44:59.3604998 - Handle Single Line CAD Tools Event
+2021-03-11T14:45:09.9318535 - Handle Toggle Selection Edit Event
+2021-03-11T14:45:15.7049417 - PrinCad end execution
+2021-03-11T16:22:07.6329225 - PrinCad begin execution
+2021-03-11T16:22:09.5091051 - Handle Plus Marker CAD Tools Event
+2021-03-11T16:22:14.4046853 - PrinCad end execution
+2021-03-11T16:23:51.8286432 - PrinCad begin execution
+2021-03-11T16:23:56.416209 - Handle Plus Marker CAD Tools Event
+2021-03-11T16:24:00.6008099 - PrinCad end execution
+2021-03-11T16:31:23.3069134 - PrinCad begin execution
+2021-03-11T16:31:26.1252557 - Handle Plus Marker CAD Tools Event
+2021-03-11T16:31:28.8406205 - PrinCad end execution
+2021-03-12T20:18:40.911471 - PrinCad begin execution
+2021-03-12T20:19:10.8211371 - Handle Circle CAD Tools Event
+2021-03-12T20:19:30.1609485 - Handle Crisscross Marker CAD Tools Event
+2021-03-12T20:19:47.4572186 - Handle Plus Marker CAD Tools Event
+2021-03-12T20:20:02.156475 - Handle Box Marker CAD Tools Event
+2021-03-12T20:20:07.2075594 - Handle Box Marker CAD Tools Event
+2021-03-12T20:20:15.0455405 - Handle Rectangle CAD Tools Event
+2021-03-12T20:20:31.5939446 - Handle Plus Marker CAD Tools Event
+2021-03-12T20:20:46.5996543 - PrinCad end execution
+2021-03-23T18:44:58.8404054 - PrinCad begin execution
+2021-03-23T19:00:28.8288957 - PrinCad begin execution
+2021-03-23T19:00:48.1378418 - PrinCad end execution
+2021-03-23T19:58:27.1591878 - PrinCad begin execution
+2021-03-23T19:58:29.2383995 - Handle Ellipse CAD Tools Event
+2021-03-23T19:58:52.0254989 - PrinCad end execution
+2021-03-23T20:01:46.7595847 - PrinCad begin execution
+2021-03-23T20:01:49.0577087 - Handle Ellipse CAD Tools Event
+2021-03-23T20:01:54.8342131 - Handle Ellipse CAD Tools Event
+2021-03-23T20:01:59.5199814 - Handle Ellipse CAD Tools Event
+2021-03-23T20:02:05.9737504 - PrinCad end execution
+2021-03-23T20:02:56.5815821 - PrinCad begin execution
+2021-03-23T20:02:58.4186298 - Handle Ellipse CAD Tools Event
+2021-03-23T20:04:06.4713464 - PrinCad end execution
+2021-03-23T20:04:08.5793498 - PrinCad begin execution
+2021-03-23T20:04:09.9039414 - Handle Ellipse CAD Tools Event
+2021-03-23T20:04:14.2698486 - PrinCad end execution
+2021-03-23T20:04:16.8601497 - PrinCad begin execution
+2021-03-23T20:04:18.3492589 - Handle Ellipse CAD Tools Event
+2021-03-23T20:08:48.453725 - Handle Ellipse CAD Tools Event
+2021-03-23T20:09:06.575183 - PrinCad end execution
+2021-03-25T14:02:26.3616283 - PrinCad begin execution
+2021-03-25T14:02:29.7433136 - Handle Ellipse CAD Tools Event
+2021-03-25T14:02:32.5634508 - Handle Ellipse CAD Tools Event
+2021-03-25T14:02:36.3429276 - Handle Ellipse CAD Tools Event
+2021-03-25T14:02:51.006255 - PrinCad end execution
+2021-03-25T14:46:08.2939369 - PrinCad begin execution
+2021-03-25T14:46:10.482227 - Handle Circle CAD Tools Event
+2021-03-25T14:46:13.1950027 - Handle Circle CAD Tools Event
+2021-03-25T14:46:18.1044199 - Handle Circle CAD Tools Event
+2021-03-25T14:46:21.8934683 - PrinCad end execution
+2021-03-25T14:50:02.3083368 - PrinCad begin execution
+2021-03-25T14:50:11.9488757 - Handle Toggle Selection Edit Event
+2021-03-25T14:50:19.0646914 - PrinCad end execution
+2021-03-25T15:06:23.7779978 - PrinCad begin execution
+2021-03-25T15:06:26.6896688 - Handle Circle CAD Tools Event
+2021-03-25T15:06:29.2145488 - Handle Circle CAD Tools Event
+2021-03-25T15:06:34.2223121 - Handle Save File Event
+2021-03-25T15:07:19.4813341 - PrinCad end execution
+2021-03-25T15:11:55.1056437 - PrinCad begin execution
+2021-03-25T15:11:57.892807 - Handle Open File Event
+2021-03-25T15:14:23.5287617 - PrinCad end execution
+2021-03-25T15:14:54.0232349 - PrinCad begin execution
+2021-03-25T15:14:55.9956958 - Handle Circle CAD Tools Event
+2021-03-25T15:15:05.1603692 - PrinCad end execution
+2021-03-25T15:18:06.2572306 - PrinCad begin execution
+2021-03-25T15:18:08.0950627 - Handle Circle CAD Tools Event
+2021-03-25T15:18:10.5313048 - Handle Plus Marker CAD Tools Event
+2021-03-25T15:18:14.2904789 - Handle Box Marker CAD Tools Event
+2021-03-25T15:18:23.5230742 - PrinCad end execution
+2021-03-25T15:25:10.3109754 - PrinCad begin execution
+2021-03-25T15:25:14.1580798 - Handle Rectangle CAD Tools Event
+2021-03-25T15:25:17.5055418 - Handle Rectangle CAD Tools Event
+2021-03-25T15:25:22.0285834 - PrinCad end execution
+2021-03-25T15:26:37.7546722 - PrinCad begin execution
+2021-03-25T15:26:40.9386652 - Handle Rectangle CAD Tools Event
+2021-03-25T15:26:42.6556612 - Handle Rectangle CAD Tools Event
+2021-03-25T15:26:45.8036077 - Handle Rectangle CAD Tools Event
+2021-03-25T15:26:55.8298947 - Handle Save File Event
+2021-03-25T15:27:29.9348424 - PrinCad end execution
+2021-03-25T15:27:31.8913602 - PrinCad begin execution
+2021-03-25T15:27:33.711254 - Handle Open File Event
+2021-03-25T15:27:44.6913525 - Failed to load file. Exception:  java.lang.Exception: Failed to parse line: <csci240.prinCad.model.RectangleItem>68.800000 96.800000 176.800000</csci240.prinCad.model.RectangleItem>
+2021-03-25T15:27:53.7933754 - PrinCad end execution
+2021-03-25T15:30:17.9066693 - PrinCad begin execution
+2021-03-25T15:30:20.3357877 - Handle Open File Event
+2021-03-25T15:30:40.1623417 - Invalid RectangleTool data string: 68.800000 96.800000 176.800000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:30:40.1623417 - Invalid RectangleTool data string: 225.600000 46.400000 139.200000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:30:40.1633389 - Invalid RectangleTool data string: 121.600000 135.200000 180.000000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:30:45.7270232 - Handle Rectangle CAD Tools Event
+2021-03-25T15:30:47.9361608 - Handle Rectangle CAD Tools Event
+2021-03-25T15:30:50.4565989 - Handle Rectangle CAD Tools Event
+2021-03-25T15:30:53.6088756 - Handle Save File Event
+2021-03-25T15:31:16.1209068 - PrinCad end execution
+2021-03-25T15:31:18.2361596 - PrinCad begin execution
+2021-03-25T15:31:19.8953075 - Handle Open File Event
+2021-03-25T15:31:27.3040714 - Invalid RectangleTool data string: 75.200000 74.400000 144.000000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:31:27.3050686 - Invalid RectangleTool data string: 129.600000 154.400000 108.000000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:31:27.3050686 - Invalid RectangleTool data string: 167.200000 85.600000 123.200000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:31:30.2236018 - PrinCad end execution
+2021-03-25T15:36:28.3481423 - PrinCad begin execution
+2021-03-25T15:37:23.4096935 - PrinCad begin execution
+2021-03-25T15:37:25.0273806 - Handle Open File Event
+2021-03-25T15:37:33.2313675 - Invalid RectangleTool data string: 75.200000 74.400000 144.000000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:37:33.2323635 - Invalid RectangleTool data string: 129.600000 154.400000 108.000000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:37:33.2323635 - Invalid RectangleTool data string: 167.200000 85.600000 123.200000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:37:43.4844594 - Handle Circle CAD Tools Event
+2021-03-25T15:37:48.0348657 - Handle Rectangle CAD Tools Event
+2021-03-25T15:37:50.4711801 - Handle Circle CAD Tools Event
+2021-03-25T15:37:54.3152722 - Handle Save File Event
+2021-03-25T15:38:15.7632172 - PrinCad end execution
+2021-03-25T15:38:17.699472 - PrinCad begin execution
+2021-03-25T15:38:19.6801814 - Handle Open File Event
+2021-03-25T15:38:28.3298835 - Invalid RectangleTool data string: 204.800000 101.600000 196.800000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:39:48.0075687 - PrinCad begin execution
+2021-03-25T15:39:51.3788236 - Handle Open File Event
+2021-03-25T15:39:59.4670859 - Invalid RectangleTool data string: 75.200000 74.400000 144.000000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:39:59.4680832 - Invalid RectangleTool data string: 129.600000 154.400000 108.000000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:39:59.4680832 - Invalid RectangleTool data string: 167.200000 85.600000 123.200000 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+2021-03-25T15:40:09.2857666 - Handle Rectangle CAD Tools Event
+2021-03-25T15:40:12.2386494 - Handle Rectangle CAD Tools Event
+2021-03-25T15:40:16.547406 - Handle Save File Event
+2021-03-25T15:40:30.4401652 - PrinCad end execution
+2021-03-25T15:40:33.6510575 - PrinCad begin execution
+2021-03-25T15:40:35.1382692 - Handle Open File Event
+2021-03-25T15:40:46.1042413 - PrinCad end execution
+2021-03-25T15:44:06.128915 - PrinCad end execution
+2021-03-25T15:44:08.2565035 - PrinCad end execution
+2021-03-25T15:50:31.0131016 - PrinCad begin execution
+2021-03-25T15:50:33.2880109 - Handle Circle CAD Tools Event
+2021-03-25T15:50:35.5933554 - Handle Rectangle CAD Tools Event
+2021-03-25T15:50:39.1087978 - Handle Single Line CAD Tools Event
+2021-03-25T15:50:42.9155997 - Handle Save File Event
+2021-03-25T15:51:13.6842977 - PrinCad end execution
+2021-03-25T15:51:15.9524512 - PrinCad begin execution
+2021-03-25T15:51:17.6398228 - Handle Open File Event
+2021-03-25T15:51:27.6385943 - Failed to load file. Exception:  java.lang.Exception: Failed to parse line: <csci240.prinCad.model.SingleLineItem>324.000000 61.600000 143.200000 324.000000</csci240.prinCad.model.SingleLineItem>
+2021-03-25T15:51:30.4933629 - PrinCad end execution
+2021-03-25T15:55:15.3854521 - PrinCad begin execution
+2021-03-25T15:55:17.0737231 - Handle Open File Event
+2021-03-25T15:55:43.0433313 - PrinCad end execution
+2021-03-25T16:14:07.6875991 - PrinCad begin execution
+2021-03-25T16:14:09.7135061 - Handle Circle CAD Tools Event
+2021-03-25T16:14:18.1869078 - Handle Save File Event
+2021-03-25T16:14:34.7813705 - PrinCad begin execution
+2021-03-25T16:14:36.7605036 - Handle Open File Event
+2021-03-25T16:14:55.0457741 -  java.lang.NullPointerException
+2021-03-25T16:14:57.7134247 - Handle Open File Event
+2021-03-25T16:16:04.3114266 - Handle Open File Event
+2021-03-25T16:16:13.3549263 - PrinCad end execution
+2021-03-25T16:18:39.185485 - PrinCad begin execution
+2021-03-25T16:18:43.2207777 - Handle Circle CAD Tools Event
+2021-03-25T16:18:45.403952 - Handle Rectangle CAD Tools Event
+2021-03-25T16:18:47.8524475 - Handle Single Line CAD Tools Event
+2021-03-25T16:18:52.3908794 - Handle Ellipse CAD Tools Event
+2021-03-25T16:19:04.5669907 - Handle Save File Event
+2021-03-25T16:19:18.6496879 - PrinCad end execution
+2021-03-25T16:19:22.1352264 - PrinCad end execution
+2021-03-25T16:19:24.993266 - PrinCad begin execution
+2021-03-25T16:19:26.5949388 - Handle Open File Event
+2021-03-25T16:19:50.6529811 - PrinCad end execution
+2021-03-30T14:27:36.8180607 - PrinCad begin execution
+2021-03-30T14:27:40.9955715 - Handle Ellipse CAD Tools Event
+2021-03-30T14:27:44.457857 - Handle Rectangle CAD Tools Event
+2021-03-30T14:27:47.4896507 - Handle Circle CAD Tools Event
+2021-03-30T14:27:51.5694856 - Handle Single Line CAD Tools Event
+2021-03-30T14:27:55.7912472 - Handle Box Marker CAD Tools Event
+2021-03-30T14:28:04.612271 - Handle Save File Event
+2021-03-30T14:28:25.9473077 - PrinCad end execution
+2021-03-30T14:28:28.3967286 - PrinCad begin execution
+2021-03-30T14:28:30.0638547 - Handle Open File Event
+2021-03-30T14:28:54.7518603 - PrinCad end execution
+2021-03-30T14:35:31.0089507 - PrinCad begin execution
+2021-03-30T14:35:34.5174721 - Handle Box Marker CAD Tools Event
+2021-03-30T14:35:37.7172257 - Handle Single Line CAD Tools Event
+2021-03-30T14:35:43.8613769 - Handle Save File Event
+2021-03-30T14:36:03.6301245 - PrinCad begin execution
+2021-03-30T14:36:05.4940584 - Handle Open File Event
+2021-03-30T14:36:21.7025086 - PrinCad end execution
+2021-03-30T14:53:53.4809558 - PrinCad begin execution
+2021-03-30T14:53:55.4294152 - Handle Plus Marker CAD Tools Event
+2021-03-30T14:53:59.2964665 - Handle Box Marker CAD Tools Event
+2021-03-30T14:54:02.5027358 - Handle Crisscross Marker CAD Tools Event
+2021-03-30T14:54:05.1427965 - Handle Single Line CAD Tools Event
+2021-03-30T14:54:09.459248 - PrinCad end execution
+2021-03-30T14:54:56.3232186 - PrinCad begin execution
+2021-03-30T14:54:57.7704589 - Handle Plus Marker CAD Tools Event
+2021-03-30T14:54:59.7233909 - Handle Box Marker CAD Tools Event
+2021-03-30T14:55:02.8800681 - Handle Crisscross Marker CAD Tools Event
+2021-03-30T14:55:05.0809272 - Handle Single Line CAD Tools Event
+2021-03-30T14:55:08.8284121 - Handle Circle CAD Tools Event
+2021-03-30T14:55:14.9441773 - Handle Rectangle CAD Tools Event
+2021-03-30T14:55:19.1621313 - Handle Ellipse CAD Tools Event
+2021-03-30T14:55:26.9517804 - Handle Save File Event
+2021-03-30T14:55:45.9648871 - PrinCad begin execution
+2021-03-30T14:55:47.7722022 - Handle Open File Event
+2021-03-30T14:56:06.7112377 - PrinCad end execution
+2021-03-30T14:56:17.4214175 - PrinCad end execution
+2021-03-30T14:56:19.5438653 - PrinCad end execution
+2021-03-30T14:57:41.1017086 - PrinCad begin execution
+2021-03-30T14:57:43.5530236 - Handle Rectangle CAD Tools Event
+2021-03-30T14:57:47.307105 - Handle Save File Event
+2021-03-30T14:58:02.8515781 - PrinCad begin execution
+2021-03-30T14:58:06.1538909 - Handle Open File Event
+2021-03-30T14:58:21.5187772 - PrinCad end execution
+2021-03-30T14:58:24.2351287 - PrinCad end execution
+2021-03-30T14:58:26.5701364 - PrinCad begin execution
+2021-03-30T14:58:28.7193843 - Handle Plus Marker CAD Tools Event
+2021-03-30T14:58:30.5285009 - Handle Box Marker CAD Tools Event
+2021-03-30T14:58:32.5063498 - Handle Crisscross Marker CAD Tools Event
+2021-03-30T14:58:34.4038661 - Handle Single Line CAD Tools Event
+2021-03-30T14:58:36.3891455 - Handle Circle CAD Tools Event
+2021-03-30T14:58:38.8454841 - Handle Rectangle CAD Tools Event
+2021-03-30T14:58:42.349168 - Handle Ellipse CAD Tools Event
+2021-03-30T14:58:46.6592893 - Handle Save File Event
+2021-03-30T14:59:04.4226645 - PrinCad begin execution
+2021-03-30T14:59:06.6302427 - Handle Open File Event
+2021-03-30T15:00:01.8425887 - PrinCad end execution
+2021-03-30T15:16:39.378418 - PrinCad begin execution
+2021-03-30T15:16:41.080228 - Handle Circle CAD Tools Event
+2021-03-30T15:16:44.3051244 - Handle New File Event
+2021-03-30T15:16:47.598168 - PrinCad end execution
+2021-03-30T15:18:11.6511004 - PrinCad begin execution
+2021-03-30T15:18:13.4191047 - Handle Circle CAD Tools Event
+2021-03-30T15:18:17.2127935 - Handle New File Event
+2021-03-30T15:18:20.9389818 - PrinCad end execution
+2021-03-30T15:18:32.5452903 - PrinCad begin execution
+2021-03-30T15:18:50.1458209 - Handle Circle CAD Tools Event
+2021-03-30T15:18:54.3712103 - Handle Rectangle CAD Tools Event
+2021-03-30T15:18:56.6089248 - Handle Plus Marker CAD Tools Event
+2021-03-30T15:18:57.6113098 - Handle Ellipse CAD Tools Event
+2021-03-30T15:19:03.5517195 - Handle Single Line CAD Tools Event
+2021-03-30T15:19:06.3563807 - Handle Crisscross Marker CAD Tools Event
+2021-03-30T15:19:08.2412594 - Handle Box Marker CAD Tools Event
+2021-03-30T15:19:10.3109996 - Handle Plus Marker CAD Tools Event
+2021-03-30T15:19:15.2004309 - Handle Save File Event
+2021-03-30T15:19:32.5186293 - Handle New File Event
+2021-03-30T15:19:35.7067944 - Handle Open File Event
+2021-03-30T15:19:53.1333231 - PrinCad end execution
+2021-03-30T18:33:42.7904983 - PrinCad end execution
+2021-03-30T19:15:43.2862929 - PrinCad begin execution
+2021-03-30T19:15:46.3485798 - Handle Rectangle CAD Tools Event
+2021-03-30T19:15:51.6463942 - Handle Save File Event
+2021-03-30T19:16:19.5415809 - PrinCad begin execution
+2021-03-30T19:16:22.1537667 - Handle Open File Event
+2021-03-30T19:16:31.8853729 - Handle Circle CAD Tools Event
+2021-03-30T19:16:38.6740991 - Handle Save File Event
+2021-03-30T19:16:38.6740991 -  java.io.FileNotFoundException:  (Cannot create a file when that file already exists)
+2021-03-30T19:16:43.122208 - PrinCad begin execution
+2021-03-30T19:16:45.2362041 - Handle Open File Event
+2021-03-30T19:16:56.9875453 - PrinCad end execution
+2021-03-30T19:17:00.9337556 - PrinCad end execution
+2021-03-30T19:17:03.7080438 - PrinCad end execution
+2021-03-30T19:19:01.6727787 - PrinCad begin execution
+2021-03-30T19:19:03.8818039 - Handle Open File Event
+2021-03-30T19:19:13.6581771 - Handle Circle CAD Tools Event
+2021-03-30T19:19:22.0812946 - Handle Save File Event
+2021-03-30T19:19:22.0812946 -  java.io.FileNotFoundException:  (Cannot create a file when that file already exists)
+2021-03-30T19:19:25.0064074 - Handle Single Line CAD Tools Event
+2021-03-30T19:19:28.18255 - Handle Open File Event
+2021-03-30T19:19:36.0964825 - PrinCad end execution
+2021-03-30T19:21:29.1624871 - PrinCad begin execution
+2021-03-30T19:21:31.3349139 - Handle Open File Event
+2021-03-30T19:21:44.0943514 - Handle Rectangle CAD Tools Event
+2021-03-30T19:21:48.6345674 - Handle Save File Event
+2021-03-30T19:21:48.6345674 -  java.io.FileNotFoundException:  (Cannot create a file when that file already exists)
+2021-03-30T19:21:51.5416632 - Handle Open File Event
+2021-03-30T19:22:05.719192 - PrinCad end execution
+2021-03-30T19:25:05.3289145 - PrinCad begin execution
+2021-03-30T19:25:07.3313735 - Handle Open File Event
+2021-03-30T19:25:16.3150822 - Handle Circle CAD Tools Event
+2021-03-30T19:25:20.5715764 - Handle Save File Event
+2021-03-30T19:25:20.5715764 -  java.io.FileNotFoundException:  (Cannot create a file when that file already exists)
+2021-03-30T19:25:46.4301826 - PrinCad end execution
+2021-03-30T19:26:25.6258742 - PrinCad begin execution
+2021-03-30T19:26:28.0317016 - Handle Open File Event
+2021-03-30T19:26:39.9420346 - Handle Circle CAD Tools Event
+2021-03-30T19:26:43.140487 - Handle Save File Event
+2021-03-30T19:27:31.3079857 -  java.io.FileNotFoundException:  (Cannot create a file when that file already exists)
+2021-03-30T19:29:50.0259699 - PrinCad begin execution
+2021-03-30T19:29:52.311627 - Handle Open File Event
+2021-03-30T19:30:00.8576708 - Handle Circle CAD Tools Event
+2021-03-30T19:30:05.7543715 - Handle Save File Event
+2021-03-30T19:30:05.7553719 -  java.io.FileNotFoundException:  (Cannot create a file when that file already exists)
+2021-03-30T19:30:12.4548009 - PrinCad begin execution
+2021-03-30T19:30:14.6429475 - Handle Open File Event
+2021-03-30T19:30:25.3813161 - PrinCad end execution
+2021-03-30T19:30:28.0322692 - Handle Open File Event
+2021-03-30T19:30:36.5082934 - PrinCad end execution
+2021-03-30T19:31:30.5676844 - PrinCad begin execution
+2021-03-30T19:31:32.5575984 - Handle Open File Event
+2021-03-30T19:31:42.6359743 - Handle Circle CAD Tools Event
+2021-03-30T19:31:46.8628271 - Handle Save File Event
+2021-03-30T19:37:43.8697604 - PrinCad begin execution
+2021-03-30T19:37:45.7365962 - Handle Open File Event
+2021-03-30T19:37:55.3891359 - Handle Circle CAD Tools Event
+2021-03-30T19:38:05.2819187 - Handle Save File Event
+2021-03-30T19:38:08.7758711 - PrinCad begin execution
+2021-03-30T19:38:10.3875776 - Handle Open File Event
+2021-03-30T19:38:21.8795887 - PrinCad end execution
+2021-03-30T19:38:24.5828903 - Handle Open File Event
+2021-03-30T19:38:28.497143 -  java.lang.NullPointerException
+2021-03-30T19:38:29.4370926 - PrinCad end execution
+2021-03-30T19:38:35.5537955 - PrinCad begin execution
+2021-03-30T19:38:37.4517387 - Handle Open File Event
+2021-03-30T19:38:46.1023094 - Handle Circle CAD Tools Event
+2021-03-30T19:38:52.5133197 - Handle Save File Event
+2021-03-30T19:41:07.7179516 - PrinCad begin execution
+2021-03-30T19:41:10.0848511 - Handle Open File Event
+2021-03-30T19:41:17.8893022 - Handle Circle CAD Tools Event
+2021-03-30T19:41:21.2991089 - Handle Save File Event
+2021-03-30T19:41:22.5344736 - Handle Open File Event
+2021-03-30T19:41:56.3184715 - Handle New File Event
+2021-03-30T19:41:59.5864001 - Handle Ellipse CAD Tools Event
+2021-03-30T19:42:44.9365106 - PrinCad end execution
+2021-03-30T19:43:58.3391194 - PrinCad begin execution
+2021-03-30T19:43:59.7916983 - Handle Open File Event
+2021-03-30T19:44:10.3567634 - Handle New File Event
+2021-03-30T19:44:16.3422436 - PrinCad end execution
+2021-03-30T19:51:32.7546409 - PrinCad begin execution
+2021-03-30T19:51:34.4832222 - Handle Open File Event
+2021-03-30T19:51:45.3273256 - Handle New File Event
+2021-03-30T19:51:48.7079229 - PrinCad end execution
+2021-03-30T20:01:05.3440712 - PrinCad begin execution
+2021-03-30T20:01:09.3173881 - Handle Open File Event
+2021-03-30T20:01:24.079347 - Handle New File Event
+2021-03-30T20:01:29.9292603 - Handle Single Line CAD Tools Event
+2021-03-30T20:01:33.4849521 - Handle Save File Event
+2021-03-30T20:01:59.4169276 - Handle Open File Event
+2021-03-30T20:02:43.6318693 - Handle SaveAs File Event
+2021-03-30T20:03:17.2861841 - Handle Open File Event
+2021-03-30T20:03:27.9530487 - Handle Open File Event
+2021-03-30T20:03:41.4258309 - Handle Circle CAD Tools Event
+2021-03-30T20:03:44.8622341 - Handle Save File Event
+2021-03-30T20:03:45.8526891 - Handle Open File Event
+2021-03-30T20:03:53.4165734 - Handle Open File Event
+2021-03-30T20:04:13.0829027 - Handle SaveAs File Event
+2021-03-30T20:04:20.2527546 -  java.lang.NullPointerException
+2021-03-30T20:04:21.6726409 - PrinCad end execution
+2021-03-30T20:05:15.3667377 - PrinCad begin execution
+2021-03-30T20:05:17.0921169 - Handle Open File Event
+2021-03-30T20:05:24.4446112 -  java.lang.NullPointerException
+2021-03-30T20:05:27.0762546 - Handle Circle CAD Tools Event
+2021-03-30T20:05:31.3225584 - Handle Save File Event
+2021-03-30T20:05:59.3312272 -  java.lang.NullPointerException
+2021-03-30T20:06:05.1578807 - PrinCad end execution
+2021-03-30T21:04:03.6365033 - PrinCad begin execution
+2021-03-30T21:04:05.3687142 - Handle Circle CAD Tools Event
+2021-03-30T21:04:09.6743549 - Handle Save File Event
+2021-03-30T21:04:39.0027879 -  java.lang.NullPointerException
+2021-03-30T21:04:40.1378356 - PrinCad end execution
+2021-03-30T22:11:56.2268851 - PrinCad begin execution
+2021-03-30T22:11:59.3742204 - Handle Rectangle CAD Tools Event
+2021-03-30T22:12:02.9541973 - Handle Save File Event
+2021-03-30T22:12:17.4333003 - Handle Circle CAD Tools Event
+2021-03-30T22:12:23.2498574 - Handle Save File Event
+2021-03-30T22:12:28.5983307 -  java.lang.NullPointerException
+2021-03-30T22:12:38.0182222 - PrinCad end execution
+2021-03-30T22:14:16.0320549 - PrinCad begin execution
+2021-03-30T22:14:21.5431581 - Handle Rectangle CAD Tools Event
+2021-03-30T22:14:24.9741958 - Handle Rectangle CAD Tools Event
+2021-03-30T22:14:28.3543196 - Handle Save File Event
+2021-03-30T22:14:43.7257156 - Handle Circle CAD Tools Event
+2021-03-30T22:14:48.4719825 - Handle Save File Event
+2021-03-30T22:14:48.4730005 -  java.lang.NullPointerException
+2021-03-30T22:14:58.8297238 - Handle Open File Event
+2021-03-30T22:15:38.6164098 -  java.lang.NullPointerException
+2021-03-30T22:15:45.1063805 - PrinCad end execution
+2021-03-30T22:25:04.0782437 - PrinCad begin execution
+2021-03-30T22:25:06.0004303 - Handle Circle CAD Tools Event
+2021-03-30T22:25:08.4018977 - Handle Circle CAD Tools Event
+2021-03-30T22:25:16.612089 - Handle Save File Event
+2021-03-30T22:25:36.1748285 - Handle Rectangle CAD Tools Event
+2021-03-30T22:25:40.457678 - Handle Save File Event
+2021-03-30T22:25:59.7398002 - Handle Open File Event
+2021-03-30T22:26:12.3307469 - PrinCad end execution
+2021-04-01T13:45:54.4446414 - PrinCad begin execution
+2021-04-01T13:45:57.0552699 - Handle Circle CAD Tools Event
+2021-04-01T13:46:00.4061917 - Handle Save File Event
+2021-04-01T13:46:19.4891512 - Handle Rectangle CAD Tools Event
+2021-04-01T13:46:34.8080823 - Handle Save File Event
+2021-04-01T13:46:42.6306814 - Handle New File Event
+2021-04-01T13:46:46.0127922 - Handle Open File Event
+2021-04-01T13:47:06.1054438 - Handle Open File Event
+2021-04-01T13:47:19.0663551 - Handle Single Line CAD Tools Event
+2021-04-01T13:47:21.4444733 - Handle SaveAs File Event
+2021-04-01T13:47:34.2587402 - Handle New File Event
+2021-04-01T13:47:35.3853686 - Handle Open File Event
+2021-04-01T13:47:53.5289915 - PrinCad end execution
+2021-04-01T14:03:34.3962571 - PrinCad begin execution
+2021-04-01T14:03:48.156142 - Handle Toggle Selection Edit Event
+2021-04-01T14:03:55.9648025 - Handle Toggle Selection Edit Event
+2021-04-01T14:04:08.5481648 - PrinCad end execution
+2021-04-01T15:46:03.4823186 - PrinCad begin execution
+2021-04-01T15:46:33.5499881 - PrinCad end execution
+2021-04-06T15:05:47.4369005 - PrinCad begin execution
+2021-04-06T15:05:54.4353049 - PrinCad end execution
+2021-04-06T15:55:30.0576553 - PrinCad begin execution
+2021-04-06T15:55:35.8266142 - Handle Circle CAD Tools Event
+2021-04-06T15:55:41.014367 - PrinCad end execution
+2021-04-08T14:46:17.2257353 - PrinCad begin execution
+2021-04-08T14:46:22.3094441 - Handle Circle CAD Tools Event
+2021-04-08T14:46:25.6420204 - PrinCad end execution
+2021-04-08T14:46:42.406255 - PrinCad begin execution
+2021-04-08T14:46:43.9700855 - Handle Circle CAD Tools Event
+2021-04-08T14:46:46.2559893 - PrinCad end execution
+2021-04-08T15:09:56.395638 - PrinCad begin execution
+2021-04-08T15:09:58.2371457 - Handle Circle CAD Tools Event
+2021-04-08T15:10:02.7771745 - PrinCad end execution
+2021-04-08T15:10:10.8792598 - PrinCad begin execution
+2021-04-08T15:10:12.5723619 - Handle Circle CAD Tools Event
+2021-04-08T15:10:17.0369114 - PrinCad end execution
+2021-04-08T15:15:54.9637285 - PrinCad begin execution
+2021-04-08T15:15:57.0241231 - Handle Circle CAD Tools Event
+2021-04-08T15:16:01.1709975 - PrinCad end execution
+2021-04-08T15:19:02.0213448 - PrinCad begin execution
+2021-04-08T15:19:03.9296204 - Handle Circle CAD Tools Event
+2021-04-08T15:19:11.7660679 - PrinCad end execution
+2021-04-08T15:19:19.8711747 - PrinCad begin execution
+2021-04-08T15:19:21.9915556 - Handle Box Marker CAD Tools Event
+2021-04-08T15:19:25.0096533 - PrinCad end execution
+2021-04-08T15:20:18.0832487 - PrinCad begin execution
+2021-04-08T15:20:19.7206987 - Handle Box Marker CAD Tools Event
+2021-04-08T15:20:22.5241859 - PrinCad end execution
+2021-04-08T15:25:38.0408952 - PrinCad begin execution
+2021-04-08T15:25:39.6675548 - Handle Box Marker CAD Tools Event
+2021-04-08T15:25:44.5291476 - PrinCad end execution
+2021-04-08T15:26:24.329835 - PrinCad begin execution
+2021-04-08T15:26:26.4975311 - Handle Crisscross Marker CAD Tools Event
+2021-04-08T15:26:28.5527072 - PrinCad end execution
+2021-04-08T15:27:06.8921076 - PrinCad begin execution
+2021-04-08T15:27:09.9181878 - Handle Plus Marker CAD Tools Event
+2021-04-08T15:27:12.2733726 - PrinCad end execution
+2021-04-08T15:28:17.1364013 - PrinCad begin execution
+2021-04-08T15:28:19.2594998 - Handle Ellipse CAD Tools Event
+2021-04-08T15:28:22.2537718 - PrinCad end execution
+2021-04-08T15:28:28.6353031 - PrinCad begin execution
+2021-04-08T15:28:30.33443 - Handle Ellipse CAD Tools Event
+2021-04-08T15:28:38.4825413 - Handle Ellipse CAD Tools Event
+2021-04-08T15:28:41.4235958 - PrinCad end execution
+2021-04-08T15:29:07.8008963 - PrinCad begin execution
+2021-04-08T15:29:09.2243037 - Handle Ellipse CAD Tools Event
+2021-04-08T15:29:14.6345304 - PrinCad end execution
+2021-04-08T15:29:19.883259 - PrinCad begin execution
+2021-04-08T15:29:21.1460203 - Handle Toggle Selection Edit Event
+2021-04-08T15:29:22.9995913 - PrinCad end execution
+2021-04-08T15:30:50.5395462 - PrinCad begin execution
+2021-04-08T15:30:52.0663573 - Handle Toggle Selection Edit Event
+2021-04-08T15:30:55.1712287 - PrinCad end execution
+2021-04-08T15:33:53.9981856 - PrinCad begin execution
+2021-04-08T15:33:56.012402 - Handle Rectangle CAD Tools Event
+2021-04-08T15:33:58.2497278 - PrinCad end execution
+2021-04-08T15:34:12.9842552 - PrinCad begin execution
+2021-04-08T15:34:14.6152987 - Handle Rectangle CAD Tools Event
+2021-04-08T15:34:16.8749332 - PrinCad end execution
+2021-04-08T15:35:50.0501799 - PrinCad begin execution
+2021-04-08T15:35:52.2851487 - Handle Single Line CAD Tools Event
+2021-04-08T15:35:54.6584792 - Handle Single Line CAD Tools Event
+2021-04-08T15:35:58.0768373 - Handle Plus Marker CAD Tools Event
+2021-04-08T15:35:59.75947 - Handle Box Marker CAD Tools Event
+2021-04-08T15:36:01.8204336 - Handle Crisscross Marker CAD Tools Event
+2021-04-08T15:36:03.7105754 - Handle Single Line CAD Tools Event
+2021-04-08T15:36:04.9182288 - Handle Circle CAD Tools Event
+2021-04-08T15:36:07.6254365 - Handle Rectangle CAD Tools Event
+2021-04-08T15:36:09.6954669 - Handle Plus Marker CAD Tools Event
+2021-04-08T15:36:11.5883545 - Handle Ellipse CAD Tools Event
+2021-04-08T15:36:18.3625613 - Handle Save File Event
+2021-04-08T15:36:34.9677857 - Handle New File Event
+2021-04-08T15:36:37.4463515 - Handle Open File Event
+2021-04-08T15:36:53.3326625 - Handle New File Event
+2021-04-08T15:36:55.446356 - Handle Plus Marker CAD Tools Event
+2021-04-08T15:36:57.0003311 - Handle Box Marker CAD Tools Event
+2021-04-08T15:36:58.5824823 - Handle Crisscross Marker CAD Tools Event
+2021-04-08T15:37:00.6030536 - Handle Single Line CAD Tools Event
+2021-04-08T15:37:02.1492523 - Handle Circle CAD Tools Event
+2021-04-08T15:37:06.103815 - Handle Rectangle CAD Tools Event
+2021-04-08T15:37:08.3336376 - Handle Ellipse CAD Tools Event
+2021-04-08T15:37:12.6557108 - Handle Save File Event
+2021-04-08T15:37:24.7632346 - Handle New File Event
+2021-04-08T15:37:27.2661084 - Handle Open File Event
+2021-04-08T15:37:39.8213879 - PrinCad end execution
+2021-04-13T14:30:28.8002345 - PrinCad begin execution
+2021-04-13T14:30:31.2949465 - Handle Rectangle CAD Tools Event
+2021-04-13T14:31:17.7009829 - PrinCad end execution
+2021-04-13T14:32:03.7951785 - PrinCad begin execution
+2021-04-13T14:32:05.5442761 - Handle Rectangle CAD Tools Event
+2021-04-13T14:32:14.3337658 - PrinCad end execution
+2021-04-13T14:39:02.204617 - PrinCad begin execution
+2021-04-13T14:39:09.2963529 - Handle Box Marker CAD Tools Event
+2021-04-13T14:39:14.6578064 - PrinCad end execution
+2021-04-13T14:42:09.376553 - PrinCad begin execution
+2021-04-13T14:42:11.6725055 - Handle Circle CAD Tools Event
+2021-04-13T14:42:18.2057467 - PrinCad end execution
+2021-04-13T14:43:03.3107662 - PrinCad begin execution
+2021-04-13T14:43:05.6039771 - Handle Crisscross Marker CAD Tools Event
+2021-04-13T14:43:09.8354688 - PrinCad end execution
+2021-04-13T14:43:25.7675208 - PrinCad begin execution
+2021-04-13T14:43:28.912633 - Handle Plus Marker CAD Tools Event
+2021-04-13T14:43:33.6414603 - PrinCad end execution
+2021-04-13T14:46:26.0420333 - PrinCad begin execution
+2021-04-13T14:46:29.3067631 - Handle Ellipse CAD Tools Event
+2021-04-13T14:46:36.9519781 - PrinCad end execution
+2021-04-13T14:56:51.9090283 - PrinCad begin execution
+2021-04-13T14:56:54.6835962 - Handle Single Line CAD Tools Event
+2021-04-13T14:57:00.4301404 - Handle Single Line CAD Tools Event
+2021-04-13T14:57:06.9159008 - Handle Single Line CAD Tools Event
+2021-04-13T14:57:13.737304 - PrinCad end execution
+2021-04-13T14:57:20.821147 - PrinCad begin execution
+2021-04-13T14:57:22.1253914 - Handle Plus Marker CAD Tools Event
+2021-04-13T14:57:24.0473672 - Handle Box Marker CAD Tools Event
+2021-04-13T14:57:26.2884354 - Handle Crisscross Marker CAD Tools Event
+2021-04-13T14:57:29.0002552 - Handle Single Line CAD Tools Event
+2021-04-13T14:57:31.8570419 - Handle Circle CAD Tools Event
+2021-04-13T14:57:34.7813737 - Handle Rectangle CAD Tools Event
+2021-04-13T14:57:37.385196 - Handle Ellipse CAD Tools Event
+2021-04-13T14:57:45.4043545 - PrinCad end execution
+2021-04-13T14:57:59.94259 - PrinCad begin execution
+2021-04-13T14:58:01.4451792 - Handle Plus Marker CAD Tools Event
+2021-04-13T14:58:03.5235463 - Handle Box Marker CAD Tools Event
+2021-04-13T14:58:05.613261 - Handle Crisscross Marker CAD Tools Event
+2021-04-13T14:58:08.0174767 - Handle Single Line CAD Tools Event
+2021-04-13T14:58:14.9838515 - Handle Single Line CAD Tools Event
+2021-04-13T14:58:18.620063 - Handle Circle CAD Tools Event
+2021-04-13T14:58:21.2913569 - Handle Rectangle CAD Tools Event
+2021-04-13T14:58:23.8043152 - Handle Ellipse CAD Tools Event
+2021-04-13T14:58:34.8037641 - Handle Circle CAD Tools Event
+2021-04-13T14:59:15.9107844 - PrinCad end execution
+2021-04-13T14:59:18.1220164 - PrinCad begin execution
+2021-04-13T14:59:21.8941593 - Handle Ellipse CAD Tools Event
+2021-04-13T14:59:31.3791535 - Handle Ellipse CAD Tools Event
+2021-04-13T14:59:35.8660641 - Handle Ellipse CAD Tools Event
+2021-04-13T14:59:53.9081994 - PrinCad end execution
+2021-04-13T15:01:59.7228193 - PrinCad begin execution
+2021-04-13T15:02:02.7650591 - Handle Single Line CAD Tools Event
+2021-04-13T15:02:31.8944745 - PrinCad end execution
+2021-04-13T15:05:05.0265866 - PrinCad begin execution
+2021-04-13T15:05:07.9040407 - Handle Ellipse CAD Tools Event
+2021-04-13T15:05:25.0305114 - Handle Ellipse CAD Tools Event
+2021-04-13T15:05:44.7556292 - PrinCad end execution
+2021-04-13T15:06:59.0887994 - PrinCad begin execution
+2021-04-13T15:07:02.754829 - Handle Ellipse CAD Tools Event
+2021-04-13T15:07:13.7562028 - PrinCad end execution
+2021-04-13T15:07:32.1912116 - PrinCad begin execution
+2021-04-13T15:07:34.3178834 - Handle Circle CAD Tools Event
+2021-04-13T15:07:45.8099045 - Handle Ellipse CAD Tools Event
+2021-04-13T15:07:53.6921062 - PrinCad end execution
+2021-04-13T15:07:55.6218815 - PrinCad begin execution
+2021-04-13T15:07:58.0424181 - Handle Ellipse CAD Tools Event
+2021-04-13T15:08:15.4995666 - PrinCad end execution
+2021-04-13T15:10:22.424828 - PrinCad begin execution
+2021-04-13T15:10:32.3004291 - Handle Ellipse CAD Tools Event
+2021-04-13T15:10:43.860251 - PrinCad end execution
+2021-04-13T15:10:46.5555838 - PrinCad begin execution
+2021-04-13T15:10:57.8183717 - Handle Plus Marker CAD Tools Event
+2021-04-13T15:10:59.7552305 - Handle Box Marker CAD Tools Event
+2021-04-13T15:11:04.0862753 - Handle Ellipse CAD Tools Event
+2021-04-13T15:15:35.4521479 - PrinCad end execution
+2021-04-13T15:23:30.860441 - PrinCad begin execution
+2021-04-13T15:23:33.9111816 - Handle Single Line CAD Tools Event
+2021-04-13T15:23:39.4662937 - Handle Single Line CAD Tools Event
+2021-04-13T15:23:57.5220563 - Handle Rectangle CAD Tools Event
+2021-04-13T15:24:16.1755937 - PrinCad end execution
+2021-04-13T16:04:41.6151679 - PrinCad begin execution
+2021-04-13T16:04:45.6968436 - Handle Circle CAD Tools Event
+2021-04-13T16:04:59.9968448 - Handle Rectangle CAD Tools Event
+2021-04-13T16:05:41.4192021 - PrinCad end execution
+2021-04-15T15:18:44.9790735 - PrinCad begin execution
+2021-04-15T15:18:46.9112684 - Handle Circle CAD Tools Event
+2021-04-15T15:18:49.9705098 - Handle Toggle Selection Edit Event
+2021-04-15T15:18:55.6663843 - Handle Rectangle CAD Tools Event
+2021-04-15T15:19:08.6254604 - PrinCad end execution
+2021-04-15T15:19:50.2842557 - PrinCad begin execution
+2021-04-15T15:19:52.4301353 - Handle Box Marker CAD Tools Event
+2021-04-15T15:19:55.8454536 - Handle Toggle Selection Edit Event
+2021-04-15T15:20:15.8191972 - PrinCad end execution
+2021-04-15T15:20:47.6873528 - PrinCad begin execution
+2021-04-15T15:21:01.2174059 - Handle Crisscross Marker CAD Tools Event
+2021-04-15T15:21:03.2382165 - Handle Toggle Selection Edit Event
+2021-04-15T15:22:52.4760266 - PrinCad end execution
+2021-04-15T15:23:26.6974009 - PrinCad begin execution
+2021-04-15T15:23:30.0168966 - Handle Plus Marker CAD Tools Event
+2021-04-15T15:23:32.6839964 - Handle Toggle Selection Edit Event
+2021-04-15T15:23:41.8365934 - PrinCad end execution
+2021-04-15T15:24:05.4688975 - PrinCad begin execution
+2021-04-15T15:24:07.403773 - Handle Ellipse CAD Tools Event
+2021-04-15T15:24:11.2950841 - Handle Toggle Selection Edit Event
+2021-04-15T15:24:50.8305077 - PrinCad end execution
+2021-04-15T15:27:19.0522291 - PrinCad begin execution
+2021-04-15T15:27:21.7264275 - Handle Circle CAD Tools Event
+2021-04-15T15:27:26.1603471 - Handle Crisscross Marker CAD Tools Event
+2021-04-15T15:27:30.0930773 - Handle Box Marker CAD Tools Event
+2021-04-15T15:27:33.372599 - Handle Plus Marker CAD Tools Event
+2021-04-15T15:27:37.499433 - Handle Rectangle CAD Tools Event
+2021-04-15T15:27:50.3905629 - Handle Ellipse CAD Tools Event
+2021-04-15T15:27:55.9836786 - Handle Toggle Selection Edit Event
+2021-04-15T15:29:13.5413924 - PrinCad end execution
+2021-04-17T15:29:59.676418 - PrinCad begin execution
+2021-04-17T15:30:09.1081267 - Handle Plus Marker CAD Tools Event
+2021-04-17T15:30:10.7683093 - Handle Box Marker CAD Tools Event
+2021-04-17T15:30:13.0018932 - Handle Rectangle CAD Tools Event
+2021-04-17T15:30:25.4474837 - Handle New File Event
+2021-04-17T15:30:36.3212763 - PrinCad end execution
+2021-04-20T13:54:32.9098709 - PrinCad begin execution
+2021-04-20T13:54:34.7476898 - Handle Rectangle CAD Tools Event
+2021-04-20T13:54:37.8167608 - Handle Toggle Selection Edit Event
+2021-04-20T13:54:55.6683461 - PrinCad end execution
+2021-04-20T14:24:14.6195799 - PrinCad begin execution
+2021-04-20T14:24:17.0534361 - Handle Single Line CAD Tools Event
+2021-04-20T14:24:19.6534183 - Handle Toggle Selection Edit Event
+2021-04-20T14:24:35.060096 - Handle Single Line CAD Tools Event
+2021-04-20T14:24:39.122077 - Handle Toggle Selection Edit Event
+2021-04-20T14:24:41.9310579 - Handle Toggle Selection Edit Event
+2021-04-20T14:25:13.0712104 - Handle Circle CAD Tools Event
+2021-04-20T14:25:16.3192366 - Handle Rectangle CAD Tools Event
+2021-04-20T14:25:20.0430654 - Handle Crisscross Marker CAD Tools Event
+2021-04-20T14:25:22.316039 - Handle Box Marker CAD Tools Event
+2021-04-20T14:25:24.8209069 - Handle Plus Marker CAD Tools Event
+2021-04-20T14:26:52.9491366 - Handle Toggle Selection Edit Event
+2021-04-20T14:27:19.8793356 - Handle Toggle Selection Edit Event
+2021-04-20T14:28:29.034469 - PrinCad end execution
+2021-04-20T14:34:23.8289622 - PrinCad begin execution
+2021-04-20T14:34:25.7233585 - Handle Plus Marker CAD Tools Event
+2021-04-20T14:34:28.0232399 - Handle Box Marker CAD Tools Event
+2021-04-20T14:34:30.6681615 - Handle Crisscross Marker CAD Tools Event
+2021-04-20T14:34:33.2052137 - Handle Toggle Selection Edit Event
+2021-04-20T14:34:44.8026233 - Handle Box Marker CAD Tools Event
+2021-04-20T14:34:48.690332 - Handle Crisscross Marker CAD Tools Event
+2021-04-20T14:34:55.4560776 - Handle Plus Marker CAD Tools Event
+2021-04-20T14:35:05.2687038 - Handle Plus Marker CAD Tools Event
+2021-04-20T14:35:07.6576808 - Handle Box Marker CAD Tools Event
+2021-04-20T14:35:14.8579524 - PrinCad end execution
+2021-04-20T14:42:49.5005788 - PrinCad begin execution
+2021-04-20T14:42:53.3833234 - PrinCad end execution
+2021-04-20T14:44:27.0982445 - PrinCad begin execution
+2021-04-20T14:44:30.1375108 - PrinCad end execution
+2021-04-20T14:53:21.8717219 - PrinCad begin execution
+2021-04-20T14:53:24.1180268 - Handle Box Marker CAD Tools Event
+2021-04-20T14:53:26.7103913 - Handle Plus Marker CAD Tools Event
+2021-04-20T14:53:28.7286784 - Handle Crisscross Marker CAD Tools Event
+2021-04-20T14:53:30.7532888 - Handle Toggle Selection Edit Event
+2021-04-20T14:54:05.3624381 - PrinCad end execution
+2021-04-20T14:55:54.3043992 - PrinCad begin execution
+2021-04-20T14:55:59.3408942 - Handle Single Line CAD Tools Event
+2021-04-20T14:56:04.5612085 - Handle New File Event
+2021-04-20T14:56:06.3446715 - Handle Plus Marker CAD Tools Event
+2021-04-20T14:56:08.4404865 - Handle Box Marker CAD Tools Event
+2021-04-20T14:56:11.1558264 - Handle Crisscross Marker CAD Tools Event
+2021-04-20T14:56:13.9400556 - Handle Toggle Selection Edit Event
+2021-04-20T14:56:23.4855069 - Handle Rectangle CAD Tools Event
+2021-04-20T14:57:00.4871286 - PrinCad end execution
+2021-04-20T14:59:11.7557265 - PrinCad begin execution
+2021-04-20T14:59:13.3584084 - Handle Plus Marker CAD Tools Event
+2021-04-20T14:59:14.9845795 - Handle Box Marker CAD Tools Event
+2021-04-20T14:59:16.6903053 - Handle Crisscross Marker CAD Tools Event
+2021-04-20T14:59:18.2314894 - Handle Toggle Selection Edit Event
+2021-04-20T15:01:23.9610811 - PrinCad end execution
+2021-04-20T15:04:01.1849231 - PrinCad begin execution
+2021-04-20T15:04:03.3487752 - Handle Rectangle CAD Tools Event
+2021-04-20T15:04:08.0491421 - Handle Toggle Selection Edit Event
+2021-04-20T15:04:38.0384426 - PrinCad end execution
+2021-04-20T15:04:49.9455271 - PrinCad begin execution
+2021-04-20T15:04:52.20027 - Handle Box Marker CAD Tools Event
+2021-04-20T15:04:54.3251271 - Handle Toggle Selection Edit Event
+2021-04-20T15:05:09.175525 - PrinCad end execution
+2021-04-20T15:08:02.3809129 - PrinCad begin execution
+2021-04-20T15:08:04.2691065 - Handle Rectangle CAD Tools Event
+2021-04-20T15:08:06.4827477 - Handle Toggle Selection Edit Event
+2021-04-20T15:09:02.5566553 - PrinCad end execution
+2021-04-20T15:39:28.8361513 - PrinCad begin execution
+2021-04-20T15:39:33.2436564 - Handle Rectangle CAD Tools Event
+2021-04-20T15:39:39.0186882 - Handle Circle CAD Tools Event
+2021-04-20T15:39:43.2764128 - Handle Ellipse CAD Tools Event
+2021-04-20T15:39:54.8284727 - Handle Toggle Selection Edit Event
+2021-04-20T15:40:09.9554526 - Handle New File Event
+2021-04-20T15:40:11.8466204 - Handle Circle CAD Tools Event
+2021-04-20T15:40:15.313925 - Handle Box Marker CAD Tools Event
+2021-04-20T15:40:18.9017104 - Handle Save File Event
+2021-04-20T15:40:21.5736808 -  java.lang.NullPointerException
+2021-04-20T15:40:24.705127 - Handle Open File Event
+2021-04-20T15:40:39.4391474 - Handle Circle CAD Tools Event
+2021-04-20T15:40:43.0787262 - Handle Save File Event
+2021-04-20T15:41:56.9347526 - PrinCad end execution
+2021-04-22T14:02:36.1870278 - PrinCad begin execution
+2021-04-22T14:02:38.4611266 - Handle Circle CAD Tools Event
+2021-04-22T14:02:40.4826826 - Handle Rectangle CAD Tools Event
+2021-04-22T14:02:43.7540172 - Handle Single Line CAD Tools Event
+2021-04-22T14:02:46.3706262 - Handle Toggle Selection Edit Event
+2021-04-22T14:02:51.0148159 - Handle Delete Edit Event
+2021-04-22T14:02:57.2827122 - PrinCad end execution
+2021-04-22T14:23:24.1301938 - PrinCad begin execution
+2021-04-22T14:23:25.5509687 - Handle Circle CAD Tools Event
+2021-04-22T14:23:27.4766948 - Handle Rectangle CAD Tools Event
+2021-04-22T14:23:29.7064407 - Handle Rectangle CAD Tools Event
+2021-04-22T14:23:31.6468881 - Handle Toggle Selection Edit Event
+2021-04-22T14:23:35.5103902 - Handle Delete Edit Event
+2021-04-22T14:23:37.6910084 - PrinCad end execution
+2021-04-22T14:34:30.3302462 - PrinCad begin execution
+2021-04-22T14:34:32.6643747 - Handle Circle CAD Tools Event
+2021-04-22T14:34:36.9006535 - Handle Delete Edit Event
+2021-04-22T14:34:39.0661486 - PrinCad end execution
+2021-04-22T14:40:18.5721973 - PrinCad begin execution
+2021-04-22T14:40:20.4156061 - Handle Circle CAD Tools Event
+2021-04-22T14:40:24.3890646 - Handle Delete Edit Event
+2021-04-22T14:40:25.9227961 - PrinCad end execution
+2021-04-22T14:50:10.1087373 - PrinCad begin execution
+2021-04-22T14:50:11.7448549 - Handle Rectangle CAD Tools Event
+2021-04-22T14:50:14.8847715 - Handle Delete Edit Event
+2021-04-22T14:50:18.9410378 - PrinCad end execution
+2021-04-22T14:58:54.3532012 - PrinCad begin execution
+2021-04-22T14:58:56.3182679 - Handle Circle CAD Tools Event
+2021-04-22T14:58:58.7270555 - Handle Toggle Selection Edit Event
+2021-04-22T14:59:00.9360281 - Handle Delete Edit Event
+2021-04-22T14:59:06.0124431 - PrinCad end execution
+2021-04-22T14:59:39.3994163 - PrinCad begin execution
+2021-04-22T14:59:40.9666862 - Handle Circle CAD Tools Event
+2021-04-22T14:59:43.5818841 - Handle Rectangle CAD Tools Event
+2021-04-22T14:59:45.8554155 - Handle Toggle Selection Edit Event
+2021-04-22T14:59:48.6932605 - Handle Delete Edit Event
+2021-04-22T14:59:54.3986322 - PrinCad end execution
+2021-04-22T15:01:11.4640591 - PrinCad begin execution
+2021-04-22T15:01:13.5450464 - Handle Circle CAD Tools Event
+2021-04-22T15:01:15.8983529 - Handle Rectangle CAD Tools Event
+2021-04-22T15:01:20.7669257 - Handle Delete Edit Event
+2021-04-22T15:01:25.7200334 - PrinCad end execution
+2021-04-22T15:01:49.4958292 - PrinCad begin execution
+2021-04-22T15:01:51.0205094 - Handle Circle CAD Tools Event
+2021-04-22T15:01:54.8906686 - Handle Delete Edit Event
+2021-04-22T15:01:57.4959194 - PrinCad end execution
+2021-04-22T15:04:20.7224358 - PrinCad begin execution
+2021-04-22T15:04:22.3125614 - Handle Circle CAD Tools Event
+2021-04-22T15:04:24.4573528 - Handle Delete Edit Event
+2021-04-22T15:04:26.3852011 - PrinCad end execution
+2021-04-22T15:05:00.8326243 - PrinCad begin execution
+2021-04-22T15:05:02.8725074 - Handle Crisscross Marker CAD Tools Event
+2021-04-22T15:05:04.2660998 - Handle Delete Edit Event
+2021-04-22T15:05:05.7595272 - PrinCad end execution
+2021-04-22T15:09:26.09806 - PrinCad begin execution
+2021-04-22T15:09:27.722615 - Handle Circle CAD Tools Event
+2021-04-22T15:09:31.4464591 - Handle Rectangle CAD Tools Event
+2021-04-22T15:09:33.7470704 - Handle Toggle Selection Edit Event
+2021-04-22T15:09:36.2430434 - Handle Delete Edit Event
+2021-04-22T15:09:38.3523688 - PrinCad end execution
+2021-04-22T15:12:03.4451033 - PrinCad begin execution
+2021-04-22T15:12:06.9862392 - Handle Rectangle CAD Tools Event
+2021-04-22T15:12:09.3482377 - Handle Rectangle CAD Tools Event
+2021-04-22T15:12:12.5241424 - Handle Toggle Selection Edit Event
+2021-04-22T15:12:15.6191974 - Handle Delete Edit Event
+2021-04-22T15:17:18.7005844 - PrinCad begin execution
+2021-04-22T15:17:20.811313 - Handle Circle CAD Tools Event
+2021-04-22T15:17:23.0689077 - Handle Rectangle CAD Tools Event
+2021-04-22T15:17:25.7768728 - Handle Toggle Selection Edit Event
+2021-04-22T15:17:27.9264005 - Handle Delete Edit Event
+2021-04-22T15:17:31.1654805 - PrinCad end execution
+2021-04-22T15:19:04.5043918 - PrinCad begin execution
+2021-04-22T15:19:08.0000106 - Handle Circle CAD Tools Event
+2021-04-22T15:19:10.7092359 - Handle Rectangle CAD Tools Event
+2021-04-22T15:19:14.801798 - Handle Single Line CAD Tools Event
+2021-04-22T15:19:17.6496682 - Handle Toggle Selection Edit Event
+2021-04-22T15:19:27.6048507 - Handle Delete Edit Event
+2021-04-22T15:22:02.8408954 - PrinCad begin execution
+2021-04-22T15:22:04.8348423 - Handle Circle CAD Tools Event
+2021-04-22T15:22:07.8552849 - Handle Rectangle CAD Tools Event
+2021-04-22T15:22:10.9078003 - Handle Toggle Selection Edit Event
+2021-04-22T15:22:41.2344936 - Handle Delete Edit Event
+2021-04-22T15:23:44.3868255 - Handle Single Line CAD Tools Event
+2021-04-22T15:23:46.983161 - Handle Rectangle CAD Tools Event
+2021-04-22T15:23:49.7596265 - Handle Toggle Selection Edit Event
+2021-04-22T15:23:53.4748894 - Handle Toggle Selection Edit Event
+2021-04-22T15:23:56.9461946 - Handle Delete Edit Event
+2021-04-22T15:24:17.9166966 - PrinCad end execution
+2021-04-22T15:29:16.1439232 - PrinCad begin execution
+2021-04-22T15:29:18.1941285 - Handle Circle CAD Tools Event
+2021-04-22T15:33:54.8761569 - PrinCad end execution
+2021-04-22T15:45:00.5137188 - PrinCad begin execution
+2021-04-22T15:45:02.5307579 - Handle Circle CAD Tools Event
+2021-04-22T15:45:15.4394687 - PrinCad end execution
+2021-04-22T15:54:30.2798918 - PrinCad begin execution
+2021-04-22T15:54:32.2851603 - Handle Circle CAD Tools Event
+2021-04-22T15:54:43.803857 - PrinCad end execution
+2021-04-27T14:19:28.9711923 - PrinCad begin execution
+2021-04-27T14:20:00.1147223 - PrinCad end execution
+2021-04-29T15:02:28.6211403 - PrinCad begin execution
+2021-04-29T15:02:35.5133595 - Handle Circle CAD Tools Event
+2021-04-29T15:02:38.7946292 - Handle Undo Edit Event
+2021-04-29T15:02:46.8227024 - PrinCad end execution
+2021-04-29T15:04:02.9798026 - PrinCad begin execution
+2021-04-29T15:04:05.1269476 - Handle Circle CAD Tools Event
+2021-04-29T15:04:07.559837 - Handle Rectangle CAD Tools Event
+2021-04-29T15:04:10.2286248 - Handle Crisscross Marker CAD Tools Event
+2021-04-29T15:04:13.435695 - Handle Undo Edit Event
+2021-04-29T15:04:23.8478472 - Handle Undo Edit Event
+2021-04-29T15:04:25.8800811 - Handle Undo Edit Event
+2021-04-29T15:04:26.8821607 - Handle Undo Edit Event
+2021-04-29T15:04:37.1807534 - PrinCad end execution
+2021-04-29T15:04:59.1883607 - PrinCad begin execution
+2021-04-29T15:05:00.7216649 - Handle Circle CAD Tools Event
+2021-04-29T15:05:03.1517903 - Handle Circle CAD Tools Event
+2021-04-29T15:05:25.6255998 - Handle Rectangle CAD Tools Event
+2021-04-29T15:05:36.6188107 - Handle Undo Edit Event
+2021-04-29T15:05:38.560708 - Handle Undo Edit Event
+2021-04-29T15:05:39.3938664 - Handle Undo Edit Event
+2021-04-29T15:05:40.523161 - Handle Undo Edit Event
+2021-04-29T15:05:42.9195052 - PrinCad end execution
+2021-04-29T15:13:28.3813716 - PrinCad begin execution
+2021-04-29T15:13:30.5403137 - Handle Box Marker CAD Tools Event
+2021-04-29T15:13:33.6366228 - PrinCad end execution
+2021-04-29T15:17:44.1946037 - PrinCad begin execution
+2021-04-29T15:17:46.5387143 - Handle Box Marker CAD Tools Event
+2021-04-29T15:17:51.8554857 - Handle Rectangle CAD Tools Event
+2021-04-29T15:17:54.7515113 - Handle Circle CAD Tools Event
+2021-04-29T15:18:00.1309289 - Handle Undo Edit Event
+2021-04-29T15:18:01.8738247 - Handle Undo Edit Event
+2021-04-29T15:18:03.7759822 - Handle Undo Edit Event
+2021-04-29T15:18:05.8106292 - Handle Undo Edit Event
+2021-04-29T15:18:15.1849877 - PrinCad end execution
+2021-04-29T15:34:20.7447587 - PrinCad begin execution
+2021-04-29T15:34:23.8263192 - Handle Circle CAD Tools Event
+2021-04-29T15:34:26.0276994 - Handle Undo Edit Event
+2021-04-29T15:34:28.9767913 - Handle Undo Edit Event
+2021-04-29T15:34:30.9747879 - PrinCad end execution
+2021-04-29T15:43:12.3600836 - PrinCad begin execution
+2021-04-29T15:43:13.939387 - Handle Rectangle CAD Tools Event
+2021-04-29T15:43:16.4477388 - Handle Undo Edit Event
+2021-04-29T15:43:21.0429985 - Handle Undo Edit Event
+2021-04-29T15:43:23.1699975 - PrinCad end execution
+2021-04-29T15:45:34.382169 - PrinCad begin execution
+2021-04-29T15:45:35.9550526 - Handle Circle CAD Tools Event
+2021-04-29T15:45:38.0152511 - Handle Rectangle CAD Tools Event
+2021-04-29T15:45:41.1754829 - Handle Single Line CAD Tools Event
+2021-04-29T15:45:43.3970525 - Handle Undo Edit Event
+2021-04-29T15:45:44.73086 - Handle Undo Edit Event
+2021-04-29T15:45:45.436219 - Handle Undo Edit Event
+2021-04-29T15:45:46.0283774 - Handle Undo Edit Event
+2021-04-29T15:45:48.9684807 - PrinCad end execution
+2021-04-29T15:55:10.7984677 - PrinCad begin execution
+2021-04-29T15:55:12.5554334 - Handle Circle CAD Tools Event
+2021-04-29T15:55:15.4755155 - Handle Undo Edit Event
+2021-04-29T15:55:18.8116154 - Handle Rectangle CAD Tools Event
+2021-04-29T15:55:21.2888776 - Handle Circle CAD Tools Event
+2021-04-29T15:55:23.7287591 - Handle Single Line CAD Tools Event
+2021-04-29T15:55:25.771044 - Handle Undo Edit Event
+2021-04-29T15:55:26.2868245 - Handle Undo Edit Event
+2021-04-29T15:55:26.7270772 - Handle Undo Edit Event
+2021-04-29T15:55:33.0648432 - Handle Undo Edit Event
+2021-04-29T15:55:52.7429708 - PrinCad end execution
+2021-04-29T16:00:03.7447141 - PrinCad begin execution
+2021-04-29T16:00:05.2150885 - Handle Single Line CAD Tools Event
+2021-04-29T16:00:07.7512379 - Handle Undo Edit Event
+2021-04-29T16:00:08.4030694 - Handle Undo Edit Event
+2021-04-29T16:00:10.511816 - PrinCad end execution
+2021-04-29T16:00:24.4253271 - PrinCad begin execution
+2021-04-29T16:00:25.822958 - Handle Single Line CAD Tools Event
+2021-04-29T16:00:27.5368123 - Handle Circle CAD Tools Event
+2021-04-29T16:00:29.6819104 - Handle Rectangle CAD Tools Event
+2021-04-29T16:00:33.23332 - Handle Crisscross Marker CAD Tools Event
+2021-04-29T16:00:36.0616063 - Handle Undo Edit Event
+2021-04-29T16:00:37.1674123 - Handle Undo Edit Event
+2021-04-29T16:00:37.8731161 - Handle Undo Edit Event
+2021-04-29T16:00:38.5892117 - Handle Undo Edit Event
+2021-04-29T16:00:39.2782419 - Handle Undo Edit Event
+2021-04-29T16:00:58.7053903 - Handle Single Line CAD Tools Event
+2021-04-29T16:01:00.6070223 - Handle Circle CAD Tools Event
+2021-04-29T16:01:02.3364226 - Handle Rectangle CAD Tools Event
+2021-04-29T16:01:04.2657007 - Handle Circle CAD Tools Event
+2021-04-29T16:01:06.5711145 - Handle Single Line CAD Tools Event
+2021-04-29T16:01:08.6012536 - Handle Circle CAD Tools Event
+2021-04-29T16:01:14.3766328 - Handle Undo Edit Event
+2021-04-29T16:01:14.9129076 - Handle Undo Edit Event
+2021-04-29T16:01:15.4652356 - Handle Undo Edit Event
+2021-04-29T16:01:15.9451797 - Handle Undo Edit Event
+2021-04-29T16:01:16.4273075 - Handle Undo Edit Event
+2021-04-29T16:01:16.9922354 - Handle Undo Edit Event
+2021-04-29T16:01:21.202703 - PrinCad end execution
+2021-04-29T16:10:20.6041683 - PrinCad begin execution
+2021-04-29T16:10:22.1074589 - Handle Circle CAD Tools Event
+2021-04-29T16:10:25.2720497 - Handle Single Line CAD Tools Event
+2021-04-29T16:10:29.842624 - Handle Undo Edit Event
+2021-04-29T16:10:30.4144947 - Handle Undo Edit Event
+2021-04-29T16:10:32.9233649 - Handle Undo Edit Event
+2021-04-29T16:10:34.5044147 - Handle Redo Edit Event
+2021-04-29T16:10:36.7178641 - Handle Redo Edit Event
+2021-04-29T16:10:38.861097 - Handle Redo Edit Event
+2021-04-29T16:10:40.5803366 - Handle Undo Edit Event
+2021-04-29T16:10:41.0789414 - Handle Undo Edit Event
+2021-04-29T16:10:42.2618778 - Handle Redo Edit Event
+2021-04-29T16:10:42.7621316 - Handle Redo Edit Event
+2021-04-29T16:10:45.2036418 - PrinCad end execution
+2021-05-04T14:11:43.4731535 - PrinCad begin execution
+2021-05-04T14:11:46.6661911 - Handle Single Line CAD Tools Event
+2021-05-04T14:11:49.1317175 - Handle Undo Edit Event
+2021-05-04T14:11:50.3268436 - Handle Redo Edit Event
+2021-05-04T14:11:52.7109248 - Handle Redo Edit Event
+2021-05-04T14:11:55.0578513 - Handle Undo Edit Event
+2021-05-04T14:11:57.7148338 - Handle Rectangle CAD Tools Event
+2021-05-04T14:12:01.1626747 - Handle Redo Edit Event
+2021-05-04T14:12:02.5920876 - Handle Undo Edit Event
+2021-05-04T14:12:03.4101179 - Handle Redo Edit Event
+2021-05-04T14:12:05.8681749 - Handle New File Event
+2021-05-04T14:12:07.5354712 - Handle Single Line CAD Tools Event
+2021-05-04T14:12:09.4229454 - Handle Circle CAD Tools Event
+2021-05-04T14:12:12.0609975 - Handle Rectangle CAD Tools Event
+2021-05-04T14:12:15.2988327 - Handle Undo Edit Event
+2021-05-04T14:12:15.7034755 - Handle Undo Edit Event
+2021-05-04T14:12:16.0706206 - Handle Undo Edit Event
+2021-05-04T14:12:17.2092232 - Handle Undo Edit Event
+2021-05-04T14:12:17.884257 - Handle Redo Edit Event
+2021-05-04T14:12:19.0508584 - Handle Redo Edit Event
+2021-05-04T14:12:19.6950109 - Handle Redo Edit Event
+2021-05-04T14:12:21.1196181 - Handle Redo Edit Event
+2021-05-04T14:12:27.8575844 - PrinCad end execution
+2021-05-04T14:43:56.9903826 - PrinCad begin execution
+2021-05-04T14:44:01.9370109 - Handle Circle CAD Tools Event
+2021-05-04T14:44:04.3005295 - Handle Rectangle CAD Tools Event
+2021-05-04T14:44:07.0852278 - Handle Single Line CAD Tools Event
+2021-05-04T14:44:09.6344259 - Handle Undo Edit Event
+2021-05-04T14:44:10.0887574 - Handle Undo Edit Event
+2021-05-04T14:44:10.577271 - Handle Undo Edit Event
+2021-05-04T14:44:11.4246062 - Handle Redo Edit Event
+2021-05-04T14:44:11.9399596 - Handle Redo Edit Event
+2021-05-04T14:44:12.4809788 - Handle Redo Edit Event
+2021-05-04T14:44:13.6582277 - Handle Redo Edit Event
+2021-05-04T14:44:16.4753708 - Handle Box Marker CAD Tools Event
+2021-05-04T14:44:18.8078343 - Handle Plus Marker CAD Tools Event
+2021-05-04T14:44:22.6350027 - Handle Rectangle CAD Tools Event
+2021-05-04T14:44:29.5968533 - Handle Undo Edit Event
+2021-05-04T14:44:30.1212118 - Handle Undo Edit Event
+2021-05-04T14:44:30.6676921 - Handle Undo Edit Event
+2021-05-04T14:44:31.156325 - Handle Undo Edit Event
+2021-05-04T14:44:31.6683445 - Handle Undo Edit Event
+2021-05-04T14:44:32.2003803 - Handle Undo Edit Event
+2021-05-04T14:44:33.9247561 - Handle Redo Edit Event
+2021-05-04T14:44:34.4292217 - Handle Redo Edit Event
+2021-05-04T14:44:34.8638642 - Handle Redo Edit Event
+2021-05-04T14:44:35.3402372 - Handle Redo Edit Event
+2021-05-04T14:44:35.8397021 - Handle Redo Edit Event
+2021-05-04T14:44:37.6127069 - Handle Redo Edit Event
+2021-05-04T14:44:39.8341432 - Handle Redo Edit Event
+2021-05-04T14:44:49.9619794 - Handle Redo Edit Event
+2021-05-04T14:44:50.1396211 - Handle Redo Edit Event
+2021-05-04T14:44:50.3119723 - Handle Redo Edit Event
+2021-05-04T14:44:51.364648 - Handle Undo Edit Event
+2021-05-04T14:44:52.5574916 - Handle Redo Edit Event
+2021-05-04T14:44:53.1025634 - Handle Redo Edit Event
+2021-05-04T14:45:19.5983274 - PrinCad end execution
+2021-05-04T14:53:37.8257263 - PrinCad begin execution
+2021-05-04T14:53:39.4526792 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T14:53:41.5032134 - Handle Single Line CAD Tools Event
+2021-05-04T14:53:43.8913012 - Handle Circle CAD Tools Event
+2021-05-04T14:53:45.9374613 - Handle Rectangle CAD Tools Event
+2021-05-04T14:53:48.7213124 - Handle Circle CAD Tools Event
+2021-05-04T14:53:53.9857115 - Handle Box Marker CAD Tools Event
+2021-05-04T14:54:00.0895347 - Handle Undo Edit Event
+2021-05-04T14:54:00.6614604 - Handle Undo Edit Event
+2021-05-04T14:54:01.1858658 - Handle Undo Edit Event
+2021-05-04T14:54:01.6892259 - Handle Undo Edit Event
+2021-05-04T14:54:02.3328962 - Handle Undo Edit Event
+2021-05-04T14:54:03.8010677 - Handle Undo Edit Event
+2021-05-04T14:54:12.2439446 - Handle Redo Edit Event
+2021-05-04T14:54:13.1294395 - Handle Redo Edit Event
+2021-05-04T14:54:13.7902033 - Handle Redo Edit Event
+2021-05-04T14:54:14.3817064 - Handle Redo Edit Event
+2021-05-04T14:54:14.9413972 - Handle Redo Edit Event
+2021-05-04T14:54:17.9893524 - PrinCad end execution
+2021-05-04T14:55:07.0595428 - PrinCad begin execution
+2021-05-04T14:55:11.4340413 - Handle Box Marker CAD Tools Event
+2021-05-04T14:55:14.2026543 - Handle Circle CAD Tools Event
+2021-05-04T14:55:15.9838737 - Handle Plus Marker CAD Tools Event
+2021-05-04T14:55:17.118866 - Handle Ellipse CAD Tools Event
+2021-05-04T14:55:20.1670186 - Handle Circle CAD Tools Event
+2021-05-04T14:55:22.9069649 - Handle Single Line CAD Tools Event
+2021-05-04T14:55:28.0964621 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T14:55:30.5559484 - Handle Undo Edit Event
+2021-05-04T14:55:30.9920204 - Handle Undo Edit Event
+2021-05-04T14:55:31.434933 - Handle Undo Edit Event
+2021-05-04T14:55:31.9074909 - Handle Undo Edit Event
+2021-05-04T14:55:32.4268474 - Handle Undo Edit Event
+2021-05-04T14:55:33.1684946 - Handle Undo Edit Event
+2021-05-04T14:55:35.4376436 - Handle Undo Edit Event
+2021-05-04T14:55:37.9604917 - Handle Redo Edit Event
+2021-05-04T14:55:38.657307 - Handle Redo Edit Event
+2021-05-04T14:55:39.4329845 - Handle Redo Edit Event
+2021-05-04T14:55:40.0135909 - Handle Redo Edit Event
+2021-05-04T14:55:40.6774302 - Handle Redo Edit Event
+2021-05-04T14:55:50.0615857 - Handle Redo Edit Event
+2021-05-04T14:55:50.3336773 - Handle Redo Edit Event
+2021-05-04T14:55:51.6682558 - PrinCad end execution
+2021-05-04T15:06:30.2877471 - PrinCad begin execution
+2021-05-04T15:06:31.9497314 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T15:06:33.5713611 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T15:06:35.1250173 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T15:06:36.4434928 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T15:06:38.0175997 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T15:06:40.1944397 - Handle Crisscross Marker CAD Tools Event
+2021-05-04T15:06:43.7516498 - Handle Undo Edit Event
+2021-05-04T15:06:44.1420183 - Handle Undo Edit Event
+2021-05-04T15:06:44.4702357 - Handle Undo Edit Event
+2021-05-04T15:06:44.8695472 - Handle Undo Edit Event
+2021-05-04T15:06:45.3008146 - Handle Undo Edit Event
+2021-05-04T15:06:46.3391093 - Handle Undo Edit Event
+2021-05-04T15:06:48.0624947 - Handle Redo Edit Event
+2021-05-04T15:06:49.096222 - Handle Redo Edit Event
+2021-05-04T15:06:49.5485903 - Handle Redo Edit Event
+2021-05-04T15:06:50.0353333 - Handle Redo Edit Event
+2021-05-04T15:06:50.6396182 - Handle Redo Edit Event
+2021-05-04T15:06:52.8708859 - Handle Redo Edit Event
+2021-05-04T15:06:56.0383803 - Handle Undo Edit Event
+2021-05-04T15:06:56.7760512 - Handle Undo Edit Event
+2021-05-04T15:06:57.3082862 - Handle Undo Edit Event
+2021-05-04T15:06:57.7879317 - Handle Undo Edit Event
+2021-05-04T15:06:58.2624911 - Handle Undo Edit Event
+2021-05-04T15:06:59.4164299 - Handle Redo Edit Event
+2021-05-04T15:06:59.8470509 - Handle Redo Edit Event
+2021-05-04T15:07:00.2704646 - Handle Redo Edit Event
+2021-05-04T15:07:00.7351842 - Handle Redo Edit Event
+2021-05-04T15:07:01.2300509 - Handle Redo Edit Event
+2021-05-04T15:07:04.0242553 - PrinCad end execution
+2021-05-04T15:14:51.9525462 - PrinCad begin execution
+2021-05-04T15:14:54.1358897 - Handle Single Line CAD Tools Event
+2021-05-04T15:14:55.4470792 - Handle Single Line CAD Tools Event
+2021-05-04T15:14:57.1970015 - Handle Single Line CAD Tools Event
+2021-05-04T15:14:59.0180517 - Handle Single Line CAD Tools Event
+2021-05-04T15:15:00.6326892 - Handle Single Line CAD Tools Event
+2021-05-04T15:15:02.7861425 - Handle Single Line CAD Tools Event
+2021-05-04T15:15:05.8036949 - Handle Undo Edit Event
+2021-05-04T15:15:06.3239476 - Handle Undo Edit Event
+2021-05-04T15:15:06.7591032 - Handle Undo Edit Event
+2021-05-04T15:15:07.153828 - Handle Undo Edit Event
+2021-05-04T15:15:07.5226348 - Handle Undo Edit Event
+2021-05-04T15:15:08.9193069 - Handle Redo Edit Event
+2021-05-04T15:15:09.3107263 - Handle Redo Edit Event
+2021-05-04T15:15:09.7142092 - Handle Redo Edit Event
+2021-05-04T15:15:10.0936521 - Handle Redo Edit Event
+2021-05-04T15:15:10.4616056 - Handle Redo Edit Event
+2021-05-04T15:15:12.0531645 - Handle Redo Edit Event
+2021-05-04T15:15:15.1081403 - Handle Undo Edit Event
+2021-05-04T15:15:15.2928042 - Handle Undo Edit Event
+2021-05-04T15:15:15.5350515 - Handle Undo Edit Event
+2021-05-04T15:15:15.7706796 - Handle Undo Edit Event
+2021-05-04T15:15:16.0029049 - Handle Undo Edit Event
+2021-05-04T15:15:16.238576 - Handle Undo Edit Event
+2021-05-04T15:15:16.4427349 - Handle Undo Edit Event
+2021-05-04T15:15:17.3529985 - Handle Redo Edit Event
+2021-05-04T15:15:17.5374304 - Handle Redo Edit Event
+2021-05-04T15:15:17.7401789 - Handle Redo Edit Event
+2021-05-04T15:15:17.9608067 - Handle Redo Edit Event
+2021-05-04T15:15:18.1759554 - Handle Redo Edit Event
+2021-05-04T15:15:18.4270833 - Handle Redo Edit Event
+2021-05-04T15:17:56.8891194 - Handle Undo Edit Event
+2021-05-04T15:17:57.334318 - Handle Undo Edit Event
+2021-05-04T15:17:57.7082516 - Handle Undo Edit Event
+2021-05-04T15:17:58.1133203 - Handle Undo Edit Event
+2021-05-04T15:17:58.5159168 - Handle Undo Edit Event
+2021-05-04T15:17:59.1279697 - Handle Undo Edit Event
+2021-05-04T15:17:59.4843498 - Handle Undo Edit Event
+2021-05-04T15:18:00.6816846 - Handle Redo Edit Event
+2021-05-04T15:18:01.0719066 - Handle Redo Edit Event
+2021-05-04T15:18:01.4808014 - Handle Redo Edit Event
+2021-05-04T15:18:01.8960112 - Handle Redo Edit Event
+2021-05-04T15:18:02.3243812 - Handle Redo Edit Event
+2021-05-04T15:18:02.7188531 - Handle Redo Edit Event
+2021-05-04T15:18:03.0033373 - Handle Redo Edit Event
+2021-05-04T15:18:06.319165 - PrinCad end execution
+2021-06-07T22:37:35.1270577 - PrinCad begin execution
+2021-06-07T22:38:32.8892319 - Handle Circle CAD Tools Event
+2021-06-07T22:38:37.1843784 - Handle Rectangle CAD Tools Event
+2021-06-07T22:38:44.8712741 - Handle Delete Edit Event
+2021-06-07T22:39:06.7097533 - Handle Rectangle CAD Tools Event
+2021-06-07T22:39:29.5277785 - Handle Toggle Selection Edit Event
+2021-06-07T22:40:46.3049582 - Handle Circle CAD Tools Event
+2021-06-07T22:40:50.2305703 - Handle Save File Event
+2021-06-07T22:40:54.5067743 -  java.lang.NullPointerException
+2021-06-07T22:40:57.1537786 - Handle Open File Event
+2021-06-07T22:40:59.6391787 -  java.lang.NullPointerException
+2021-06-07T22:47:07.631893 - Handle Delete Edit Event
+2021-06-07T22:47:17.8273527 - Handle Undo Edit Event
+2021-06-07T22:47:31.2625438 - Handle Redo Edit Event

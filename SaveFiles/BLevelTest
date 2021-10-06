@@ -1,0 +1,7 @@
+<csci240.prinCad.model.CircleItem>172.800000 115.200000 74.571845</csci240.prinCad.model.CircleItem>
+<csci240.prinCad.model.RectangleItem>126.400000 140.800000 147.200000 114.400000</csci240.prinCad.model.RectangleItem>
+<csci240.prinCad.model.EllipseItem>41.600000 187.200000 35.200000 108.000000</csci240.prinCad.model.EllipseItem>
+<csci240.prinCad.model.SingleLineItem>268.000000 64.000000 64.800000 322.400000</csci240.prinCad.model.SingleLineItem>
+<csci240.prinCad.model.CrisscrossMarkerItem>246.400000 214.400000</csci240.prinCad.model.CrisscrossMarkerItem>
+<csci240.prinCad.model.BoxMarkerItem>180.800000 220.800000</csci240.prinCad.model.BoxMarkerItem>
+<csci240.prinCad.model.PlusMarkerItem>164.000000 100.000000</csci240.prinCad.model.PlusMarkerItem>

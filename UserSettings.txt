@@ -1,0 +1,7 @@
+SceneWidth=720
+SceneHeight=720
+SceneBackgroundColor=0x00000000
+CanvasWidth=450
+CanvasHeight=450
+CanvasBackgroundColor=0x0000FFFF
+LoggingLevel=Information
